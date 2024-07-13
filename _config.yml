@@ -13,14 +13,15 @@ timezone: Asia/Kolkata
 
 title: Blog · vibhaas.net
 
-tagline: This is the website of Vibhaas Nirantar Srivastava (@accord).
+tagline: >- # i added this new line
+  This is the website and blog of Vibhaas Srivastava (@accord).
 
 description: >- # used by seo meta and the atom feed
   This is the personal blog of Vibhaas Srivastava (@accord). Topics: Programming, B.Tech., Essays, AI/ML, Philosophy, Anime.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://vibhaas.net"
+url: "https://www.vibhaas.net"
 
 github:
   username: vibhaas # change to your github username
