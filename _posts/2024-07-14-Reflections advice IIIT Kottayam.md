@@ -1,6 +1,6 @@
 ---
 title: Reflections on my first year at IIITK (and advice for freshers)
-date: 2024-07-24 08:16:45 +0530
+date: 2024-08-24 08:16:45 +0530
 categories: [IIITK, Advice]
 tags: [college, btech, advice, iiitk-specific]     # TAG names should always be lowercase
 ---
