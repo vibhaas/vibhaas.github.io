@@ -47,7 +47,7 @@ First and most important, do **NOT** expect to learn how to code well from colle
 
 ### 2. Do not expect it to be easy
 
-For unknown reasons, a lot of people expect coding to be easy, or they watch some youtube tutorials and assume that they now know how to code. Peter Norvig put it best in his essay (which I highly recommend reading), [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html):
+For unknown reasons, a lot of people expect coding to be easy, or they watch some youtube tutorials and assume that they now know how to code. Peter Norvig put it best in his essay (which I highly recommend reading), [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html):
 
 > Walk into any bookstore, and you'll see how to Teach Yourself Java in 24 Hours alongside endless variations offering to teach C, SQL, Ruby, Algorithms, and so on in a few days or hours... The conclusion is that either people are in a big rush to learn about programming, or that programming is somehow fabulously easier to learn than anything else.
 
