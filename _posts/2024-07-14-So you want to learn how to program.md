@@ -51,19 +51,27 @@ For unknown reasons, a lot of people expect coding to be easy, or they watch som
 
 > Walk into any bookstore, and you'll see how to Teach Yourself Java in 24 Hours alongside endless variations offering to teach C, SQL, Ruby, Algorithms, and so on in a few days or hours... The conclusion is that either people are in a big rush to learn about programming, or that programming is somehow fabulously easier to learn than anything else.
 
-Let me make it clear: _Coding is not easy!_ Just like any craft, it takes discipline and delibrate practice over a long period of time to actually become a decent programmer. Do not expect it to be easy. Programming is vast, and to learn it to an intermediate level as a complete beginner, it will take you at least two years of practice. To become a expert programmer it may take you five, ten years, or more! I cannot say, since I do not consider myself one! So, you must develop a love for the craft, which is the only way to hone your skills to this level. It is important to keep this in mind.
+Let me make it clear: _Coding is not easy!_ Just like any craft, it takes discipline and deliberate practice over a long period of time to actually become a decent programmer. Do not expect it to be easy. Programming is vast, and to learn it to an intermediate level as a complete beginner, it will take you at least two years of practice. To become a master at the craft of programming it may take you five, ten years, or more! I cannot say, since I do not consider myself one! So, you must develop a love for the craft, which is the only way to hone your skills to this level. It is important to keep this in mind.
 
 ### 3. Learn how to program, not any particular language
 
-Most programming languages are very similar, like different dialects of the same language, rather than completely different languages.. Lorem Ipsum.
+Most programming languages are very similar, like different dialects of the same language, rather than completely different languages. So, instead of trying to learn the syntax of many different languages, it is better to learn how to program well in _one_ particular language before trying others. 
+
+For an analogy, learning syntax is like learning how to make words and sentences in a language. Learning to program is like learning how to write books with it. So, write a good one.
 
 ### 4. Syntax vs "knowing" a language
 
-Lorem Ipsum.
+> A language that doesn't affect the way you think about programming, is not worth knowing ~ Alan Perlis
 
-### 5. On Online Courses and Tutorial Hell
+Different programming languages have different use cases and philosophies on how to perform the same task. This is a continuation of the previous subsection on learning how to program well -- learn your language well, too! The syntax structures which are common between languages are just the surface - every language has something fresh and interesting to offer.
 
-Lorem Ipsum.
+To illustrate what I mean, consider a programmer extremely proficient in C++. He will be able to pick up the syntax of Python within 1-2 days. However, he wouldn't have learnt how to write _Pythonic_ code, and code in the philosophy and style of Python, or follow its best practices, and will likely take a few months if he wants to grasp that.
+
+This is what I mean by syntax vs "knowing a language". Be a native speaker of your language and not just memorize the words.
+
+### 5. Know when to stop learning
+
+By "stop learning", I mean to stop consuming online courses and tutorials. Start applying what you have learnt to the real world. A lot of programmers suffer from impostor syndrome, the feeling of not being good enough and being under-confident. This leads them to constantly consume more and more tutorials and not actually coding. However, this becomes counter-productive. At a stage, further learning is only possible by applying what you have already learnt. 
 
 ### 6. Write Clear Code
 
@@ -71,11 +79,89 @@ Lorem Ipsum.
 
 > "_Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live._" ~ John Woods
 
-Lorem Ipsum.
+Most real world coding projects involve the collaboration of tens to hundreds of programmers. They also involving maintaining and update ten years old codebases. 
+
+Do you think that would be easier if the code looked like this:
+
+```cpp
+bool brpt(int n,int m,vector<vector<int>>&adj){
+  vector<int>c(n,-1);
+  for(int i=0;i<n;++i){if      (c[i]  ==  -1){stack<int >s;s.push(i);c[i]=0;
+    while(!s.empty()   ){
+       int u=s.top(); s.pop();for(int v:adj[u]){if(c[v]==-1){c[v]=1-c[u];s.push(v);}
+else if(c[v]==c[u])return false;}}}
+        }return true;
+}
+```
+
+or like this:
+
+```cpp
+// Function to check if a graph is bipartite
+bool isBipartite(int N, int M, vector<vector<int>> &adj) {
+    // Vector to store the color of each node (0 or 1)
+    vector<int> color(N, -1); // -1 == unvisited
+
+    // Loop through each node to handle disconnected graphs
+    for (int start = 0; start < N; ++start) {
+        // If the node is already colored, skip it
+        if (color[start] != -1) {
+            continue;
+        }
+
+        // Use a stack for DFS
+        stack<int> stk;
+        stk.push(start);
+        color[start] = 0; // Start coloring with 0
+
+        // Perform DFS
+        while (!stk.empty()) {
+            int node = stk.top();
+            stk.pop();
+
+            // Iterate over all adjacent nodes
+            for (int neighbor : adj[node]) {
+                // If the neighbor has not been colored, color it with the opposite color
+                if (color[neighbor] == -1) {
+                    color[neighbor] = 1 - color[node];
+                    stk.push(neighbor);
+                }
+                // If the neighbor has the same color, the graph is not bipartite
+                else if (color[neighbor] == color[node]) {
+                    return false;
+                }
+            }
+        }
+    }
+    return true; // If no conflicts, the graph is bipartite
+}
+```
+
+Which do you think is easier to understand and debug? Now, admittedly, the number of comments in the second example are a bit excessive, but it is important to **comment your code**! Make sure to use standard and expressive variable naming, even spacing and the best practices for the languages you are using.
 
 ## How to Get Started
 
-Lorem Ipsum.
+This is section is to help you learn enough CS to be able to continue to learn yourself. This is not meant as an exhaustive list but a starting point.
+
+So, this my roadmap for a beginner programmer:
+
+1. **Learn one "mainstream" programming language.** I recommend starting out with C/C++, Python or Java. Learn the syntax and how to work with variables, control structures, loops, functions and common data structures.
+2. **Learn some basic web development.** Learn how HTML, CSS and JavaScript work, being able to code basic front-end websites.
+3. **Learn OOPs (Object Oriented Programming).** You should be able to understand objects and classes; encapsulation, inheritance, polymorphism, how to create packages (or the equivalent) in your programming language of choice.
+4. **Learn how to use Git/Github.**
+5. **Practice by solving coding problems on websites like [LeetCode](https://leetcode.com/), and make a few personal projects.**
+
+It doesn't really matter what resources you use as long as you accomplish the above mentioned points. Personally, I am partial towards [CS50's Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) which is a popular online MOOC by Harvard University. The [FreeCodeCamp Youtube Channel](https://www.youtube.com/c/Freecodecamp) also has excellent tutorials on various topics.
+
+Here is a rough time-frame for accomplishing what I mentioned (of course, this varies from person to person!):
+
+1. **Learning your first programming language.** This should take anywhere from 1-3 months. You don't just want to know it theoretically, you want to make sure that you can quickly write code without referring and making trivial bugs. For this, you should solve lots of problems!
+2. **Learning basic web development.** This is a questionable inclusion into the list. Not everyone considers web development interesting, while some love it and make a career in it. However, I believe a basic understanding of web development is essential for any programmer. This step should take about a month or so.
+3. **Learn OOPs.** This shouldn't take much long, however, it is a style of thinking and not just a bunch of concepts, so do not rush this. This should take about a month again.
+4. **Learn how to use Git/Github.** Learning how to use a version control system (primarily Git) is essential as a programmer. It still astounds me how many students in CS engineering are not comfortable working with Git. Do not be afraid of Git / Github. It is simple to pick up and should not take more than 2 weeks of effort.
+5. **Practice Problems on [LeetCode](https://leetcode.com/) / Make Projects.** This is a more long-term phase. Problem practice is supposed to consistent, so its hard to give a time line for this. It is meant to be done alongside the first four and much after as well. Basically, practice your skills on problems and projects for as long as you need to!
+
+That's about it. After this, you will (hopefully) discover where your interests lie and be able to direct your further journey in Computer Science by yourself. Good luck, and have fun!
 
 ## On Machine Learning and AI
 
@@ -87,16 +173,10 @@ This section on Machine Learning and AI was contributed by [Glen Enosh](https://
 
 Ever feel like your Netflix recommendations know you better than your own family? That's the subtle magic of AI at work – and it's just the tip of the iceberg! Here are some tips and tricks, where we demystify artificial intelligence: it's less "_Terminator_" and more "your grandma asking Alexa to play '_Despacito_'" (it's a vibe).
 
-![img-description](/assets/img/AI-roadmap.png){: width="400" .center }
+![img-description](/assets/img/AI-roadmap.png){: width="500" .center }
 _Image: "A learning track for AI". Image designed by [Maniraj B](https://www.linkedin.com/in/maniraj-bonkuri/). Click to zoom._
 
-Basics(Green):  Python -> Linear Algebra(Math) ->  Probability & Statistics(Math) -> Numpy()->MathPlotLib->Pandas (Implementation Library)
-
-Intermediate(Yellow) :-Basic ML Algorithms(Regressions and Classifications(Core)->scikit-learn(Implementation Library )
-
-Advanced(Orange) : Matrix(Math) -> Calculus(Math) -> Intro to Neural Networks FrameWorks(core): PyTorch, TensorFlow (Implementation Libraries)->(Misty Cloud) Research Papers, further AI libraries,etc….
-
-{It’s not the end, it’s the beginning !!!-visualise}
+Above is the magnificent roadmap that is the default question for every fresher. The roadmap contains both mathematics and frameworks that implement the learnt theory. The green part (like always) is the easier part, it covers all the basic math which is required to understand the basics of ML. The yellow part is the harder path and contains all the basic ML Algorithms and their implementations. The Red Part is the relatively hardest part. It contains maths and implementations of Neural Networks which is a part of Machine Learning. This part is pretty important because its the basics of all the current trends in AI like LLMs and Stable Diffusions, you know… All the fancy stuff.
 
 ### Some tips and tricks
 
@@ -118,7 +198,7 @@ Lorem Ipsum.
 
 ## Programming Challenges
 
-Lorem Ipsum.
+This is an extension to Point 5 of [How to get Started](#how-to-get-started): solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
 
 ### 1. Hackathons
 
@@ -126,7 +206,23 @@ Lorem Ipsum.
 
 ### 2. Competitive Programming
 
-Lorem Ipsum.
+Competitive Programming is a mindsport in which contestants solve programming problems / puzzles in a limited time frame. It is similar to the contests on [LeetCode](https://leetcode.com/), with some of the biggest platforms for practicing CP (as it is commonly abbreviated) being [Codeforces](https://codeforces.com/), [CodeChef](https://www.codechef.com) and [AtCoder](https://atcoder.jp/).
+
+You will especially enjoy it if you are into Math / Puzzles or other mindsports like Chess. If you saw my profile, you know that I am pretty into it myself, and so I will be writing a blog post only about "How to get started with CP" soon. Until then, I refer you to the following videos and books if you are interested to learn more:
+
+- **Famous CPer Errichto on "How to Start with Competitive Programming":** 
+
+{% include embed/youtube.html id='xAeiXy8-9Y8' %}
+
+- **Famous CPer William Lin on "Starting Competitive Programming - Steps and Mistakes":** 
+
+{% include embed/youtube.html id='bVKHRtafgPc' %}
+
+- **Blog by GM on a way to practice Competitive Programming:** [https://codeforces.com/blog/entry/66909](https://codeforces.com/blog/entry/66909)
+
+- **The Competitive Programmers Handbook (CPH):** [Link](https://usaco.guide/CPH.pdf).
+
+- If you are currently a student at IIIT Kottayam, join the **Coders Club Discord Server** (invite link: [https://discord.gg/5H9BHSQDQG](https://discord.gg/5H9BHSQDQG)).
 
 ### 3. CTFs
 
@@ -134,7 +230,9 @@ Lorem Ipsum.
 
 ## Tips from batchmates and seniors
 
-Lorem Ipsum.
+And finally, I have collected some tips from my batchmates and seniors. They mention things they wished they knew before starting their programming journey and the suggestions they have for you:
+
+
 
 ## Concluding Remarks
 
