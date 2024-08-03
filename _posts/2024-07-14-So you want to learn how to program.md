@@ -15,7 +15,7 @@ You just got admitted to your Computer Science (or some other science / engineer
 
 This article is for you. Although it is primarily written for the first category of people, I believe it will be a valuable read for anyone learning to program.
 
-If you _do_ fall into the first category, that I believe it will be valuable to read this post from cover-to-cover.
+If you _do_ fall into the first category, that I believe it will be valuable to read this post from cover-to-cover, but feel free to skip around.
 
 Although posted on my blog, this post has been a collabarative effort by many people. Special thanks to:
 
@@ -232,7 +232,37 @@ Lorem Ipsum.
 
 And finally, I have collected some tips from my batchmates and seniors. They mention things they wished they knew before starting their programming journey and the suggestions they have for you:
 
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Person's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<!-- Text content -->
+<div style="text-align: center;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">"In a world where neon jellyfish float gracefully through the skies and the ocean has swapped places with the stars, Captain Spork Tanglebottom, the last pirate with a feathered top hat, set sail on a ship made entirely of cheese. The sails flapped like slices of provolone in the wind, and the crew of animated socks sang shanties about the moon's secret affinity for jazz music."</span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    by <a href="https://www.linkedin.com/in/alex-gijo/">Alex Gijo</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
 
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Person's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<!-- Text content -->
+<div style="text-align: center;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">"Don't be a lil bitch."</span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    by <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
 
 ## Concluding Remarks
 
