@@ -235,7 +235,29 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template start ============= -->
 <div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
 <!-- Image of the person -->
-<img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Person's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<a href="https://www.linkedin.com/in/siddhantnema/"><img src="/assets/img/ref-imgs/siddhant-nema.jpeg" alt="Siddhant Nema's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
+<!-- Text content -->
+<div style="text-align: left;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400; text-align: left; align-items: left;"><ol>
+    <li>Always try out new things. You never know what field you might like in Computer Science. </li>
+    <li>Find something you vibe with rather than searching for a cash cow. Not everyone needs to be learning ML or doing CTFs or CP. Do what makes you happy!</li>
+    <li>When you've finally found something you like, you will end up hitting a wall at some point. It is important to know that it's very natural and when you overcome this you will unlock a new level of mastery in your field. Be patient and persevere through it.</li>
+    <li>Stop shifting the blame to external factors. "The prof isn't good" or "There are too many cheaters in contests" or "It was my internet" are good examples of little white lies you tell yourself to stay complacent. Being accountable to your mistakes is the best way to overcome failure.</li>
+    <li>Chill. Now this one is mostly ignored. Nothing is more important than your peace. Give yourself a break once in a while.</li>
+</ol></span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.linkedin.com/in/siddhantnema/">Siddhant Nema</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
+
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Alex Gijo's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
 <!-- Text content -->
 <div style="text-align: center;">
 <!-- Quotation text -->
@@ -244,14 +266,14 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
-    by <a href="https://www.linkedin.com/in/alex-gijo/">Alex Gijo</a>
+    ~ <a href="https://www.linkedin.com/in/alex-gijo/">Alex Gijo</a>
 </p></div></div>
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
 <div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
 <!-- Image of the person -->
-<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Person's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Dr. Blanes's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
 <!-- Text content -->
 <div style="text-align: center;">
 <!-- Quotation text -->
@@ -260,7 +282,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
-    by <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
+    ~ <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
 </p></div></div>
 <!-- ============= card template end ============= -->
 
