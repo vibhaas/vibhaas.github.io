@@ -183,11 +183,8 @@ Above is the magnificent roadmap that is the default question for every fresher.
 - If you have prepared for JEE Mathematics, it should cover the maths in the roadmap. Just review the mentioned concepts.
 - The roadmap is designed with the knowledge needed for each step.
 What works for us may not work for you, but aim to complete most of the concepts in the roadmap.
-- Try doing your logical work in the morning and your creative work at night.
 - Don’t trust us. Jump to advanced levels, face challenges, get mocked by the lack of knowledge, and doubt your ability. It’s okay to feel so. Don’t give up. Return to basics to understand the necessity of following the roadmap.Return to basics to understand the necessity of following the roadmap.
-- Take on tougher projects involving skills or domains you haven’t explored but are interested in. This can create an urge to acquire the necessary skills or knowledge. You can either clutch or crumble under pressure, but if you have genuine interest and urge, you will survive.
 - The key to learning stuff in this specific field is not just consistency and dedication, you have to choose the pertinent subjects to dedicate your time to.
-- If you ever feel like getting stuck in a specific part, take a break, chill and then come back to it with a different point of view.
 - The learning curve in AI is steeper than cubic polynomials, the initial steps can be tiring and exhausting. So, Try implementing the stuff that you learnt cuz visual learning proves to be helpful in the long run.
 - Don’t blindly follow the tutorials implementing the ML and ANN algos, try to understand the intuition behind the algo and then code it up.
 - Don’t ask too many questions up front. Just dive in and get started!
@@ -257,7 +254,42 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template start ============= -->
 <div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
 <!-- Image of the person -->
-<img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Alex Gijo's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<a href="https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/"><img src="/assets/img/ref-imgs/harissh-ragav.jpeg" alt="Harissh Ragav's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
+<!-- Text content -->
+<div style="text-align: center;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">If you ever feel like getting stuck in a specific part, take a break, chill and then come back to it with a different point of view.</span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/">Harissh Ragav Dhamodaran</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
+
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<a href="https://www.linkedin.com/in/glen-enosh-924414215/"><img src="/assets/img/ref-imgs/glen-enosh.jpeg" alt="Glen Enosh's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
+<!-- Text content -->
+<div style="text-align: left;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400; text-align: left; align-items: left;"><ul>
+    <li>Try doing your logical work in the morning and your creative work at night. </li>
+    <li>Take on tougher projects involving skills or domains you haven’t completely explored but are interested in. This can create an urge to acquire the necessary skills or knowledge. You can either clutch or crumble under pressure, but if you have genuine interest and urge, you will survive.</li>
+</ul></span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.linkedin.com/in/glen-enosh-924414215/">Glen Enosh</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
+
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<a href="https://www.linkedin.com/in/alex-gijo/"><img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Alex Gijo's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
 <div style="text-align: center;">
 <!-- Quotation text -->
@@ -273,18 +305,68 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template start ============= -->
 <div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
 <!-- Image of the person -->
-<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Dr. Blanes's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+<a href="https://www.linkedin.com/in/laav10/"><img src="/assets/img/ref-imgs/laavanya-rajan.jpeg" alt="Laavanya Rajan's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
 <div style="text-align: center;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"Don't be a lil bitch."</span>
+<span style="font-weight: 400;">"In a world where neon jellyfish float gracefully through the skies and the ocean has swapped places with the stars, Captain Spork Tanglebottom, the last pirate with a feathered top hat, set sail on a ship made entirely of cheese. The sails flapped like slices of provolone in the wind, and the crew of animated socks sang shanties about the moon's secret affinity for jazz music."</span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
-    ~ <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
+    ~ <a href="https://www.linkedin.com/in/laav10/">Laavanya Rajan</a>
 </p></div></div>
 <!-- ============= card template end ============= -->
+
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<a href="https://www.linkedin.com/in/shaunalanjoseph/"><img src="/assets/img/ref-imgs/shaun.jpeg" alt="Shaun Alan Joseph's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
+<!-- Text content -->
+<div style="text-align: center;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">"I use Vim, btw."</span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.linkedin.com/in/shaunalanjoseph/">Shaun Alan Joseph</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
+
+<!-- ============= card template start ============= -->
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<!-- Image of the person -->
+<a href="https://www.linkedin.com/in/vipin-karthic-1b111828a/"><img src="/assets/img/ref-imgs/vipin-karthic.jpeg" alt="Vipin Karthic's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
+<!-- Text content -->
+<div style="text-align: center;">
+<!-- Quotation text -->
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">"while(t--) { break; }"</span>
+</p>
+<!-- Author's name -->
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.linkedin.com/in/vipin-karthic-1b111828a/">Vipin Karthic</a>
+</p></div></div>
+<!-- ============= card template end ============= -->
+
+<!--
+</!-- ============= card template start ============= --/>
+<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+</!-- Image of the person --/>
+<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Dr. Blanes's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+</!-- Text content --/>
+<div style="text-align: center;">
+</!-- Quotation text --/>
+<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
+<span style="font-weight: 400;">"Don't be a lil bitch."</span>
+</p>
+</!-- Author's name --/>
+<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
+    ~ <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
+</p></div></div>
+</!-- ============= card template end ============= --/>
+-->
 
 ## Concluding Remarks
 
