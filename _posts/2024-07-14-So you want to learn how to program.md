@@ -189,10 +189,6 @@ What works for us may not work for you, but aim to complete most of the concepts
 - Don’t blindly follow the tutorials implementing the ML and ANN algos, try to understand the intuition behind the algo and then code it up.
 - Don’t ask too many questions up front. Just dive in and get started!
 
-## On Cybersecurity
-
-Lorem Ipsum.
-
 ## Programming Challenges
 
 This is an extension to Point 5 of [How to get Started](#how-to-get-started) --- solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
@@ -291,10 +287,14 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/alex-gijo/"><img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Alex Gijo's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
-<div style="text-align: center;">
+<div style="text-align: left;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"In a world where neon jellyfish float gracefully through the skies and the ocean has swapped places with the stars, Captain Spork Tanglebottom, the last pirate with a feathered top hat, set sail on a ship made entirely of cheese. The sails flapped like slices of provolone in the wind, and the crew of animated socks sang shanties about the moon's secret affinity for jazz music."</span>
+<span style="font-weight: 400;"><ol>
+    <li>Never be satisfied with your project. Sounds strange, but you can always make it better. Supposed to make a todo list website? Why not learn to make it run as an app on the phone. Once you learn to over-do, your works will suddenly stand out among the crowds of copy-pasted code.</li>
+    <li>Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. Learn the art of using documentations and forum online, like stackoverflow.</li>
+    <li>Remember to touch grass—your code doesn’t need a break, but your brain definitely does.</li>
+</ol></span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
@@ -339,10 +339,16 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/vipin-karthic-1b111828a/"><img src="/assets/img/ref-imgs/vipin-karthic.jpeg" alt="Vipin Karthic's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
-<div style="text-align: center;">
+<div style="text-align: left;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"while(t--) { break; }"</span>
+<span style="font-weight: 400;"><ol>
+    <li>Don't stress yourself out over on what you want to do in the first month of learning how to program, start somewhere, and spend a reasonable amount of time in the fields you might to work, before choosing one and becoming really good at it.</li>
+    <li>During your learning period of a language, try your best not to involve the usage of AI, code everything out on your own, it will help you both in developing debugging skills, and at the end you just become a better programmer.</li>
+    <li>After you learn how to "use" a language, and when you start a project based on a tutorial, don't copy code as the tutorial says, see a part, understand it, and implement on your own with your own twist.</li>
+    <li>Invest time learning before committing to something.</li>
+    <li>Do not take too many things and once, and at the end, accomplishing nothing. Start with one thing, and once you learn how to manage your time efficiently take on other projects, I personally won't recommend doing more than 2 things at once.</li>
+</ol><center> PS: I too use Vim, btw.</center></span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">

@@ -1,6 +1,6 @@
 ---
 title: Probability I - Counting and Axioms
-date: 2024-09-04 08:30:45 +0530
+date: 2024-12-04 08:30:45 +0530
 categories: [Programming]
 math: true
 tags: [notes, math, probability, btech, undergrad] # TAG names should always be lowercase
