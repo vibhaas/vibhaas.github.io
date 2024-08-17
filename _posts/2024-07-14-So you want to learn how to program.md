@@ -22,10 +22,10 @@ Although posted on my blog, this post has been a collabarative effort by many pe
 - **Alex Gijo** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Glen Enosh** _(2023 batch, IIITK)_: For co-authoring [On Machine Learning and AI](#on-machine-learning-and-ai) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Harissh Ragav Dhamodaran** _(2023 batch, IIITK)_: For co-authoring [On Machine Learning and AI](#on-machine-learning-and-ai) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
-- **Laavanya Rajan** _(2023 batch, IIITK)_: For authoring [Programming Challenges: CTFs](http://127.0.0.1:4000/posts/So-you-want-to-learn-how-to-program/#3-ctfs) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
+- **Laavanya Rajan** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Siddhant Nema** _(2022 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Shaun Alan Joseph** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
-- **Vipin Karthic** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
+- **Vipin Karthic** _(2023 batch, IIITK)_: For authoring [On Game Development](#on-game-development) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 
 I also thank them for providing their valuable time towards proof-reading this blog.
 
@@ -245,7 +245,17 @@ This is an extension to Point 5 of [How to get Started](#how-to-get-started) ---
 
 ### 1. Hackathons
 
-Lorem Ipsum.
+> Think of it as a coding party, but instead of just chilling, you’re making cool stuff—apps, websites, gadgets, whatever you can imagine. The goal? Build something real by the end of the event, usually within 24-48 hours.
+
+Hackathons are collaborative events where groups of people try out new ideas and come up with something novel to develop. Traditionally, Hackathons are meant to be events where you spend a day or two and come up with a new idea or product and develop it from scratch. 
+
+It is an intense but fun experience - a lot of Hackathons run right through the night onto the next day, making coffee a vital resource for working after the ideation.
+
+However, a lot of Hackathon competitions conducted in India tend to have the ideation _before_ the development. Often, you are expected to submit your idea and a PPT presentation well in advance.
+
+This, unfortunately, sometimes turns it into a PPT competition, where people write buzzwords in their PPT without really having any skills (it goes without saying, don't do that). However, if you get to the later stages of the Hackathon, it can be a really rewarding experience.
+
+A popular Hackathon in India is the [Smart India Hackathon](https://www.sih.gov.in/), which happens every year. Do check it out and also other hackathons. They are a valuable way to collaborate with others on projects.
 
 ### 2. Competitive Programming
 
@@ -357,10 +367,15 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/laav10/"><img src="/assets/img/ref-imgs/laavanya-rajan.jpeg" alt="Laavanya Rajan's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
-<div style="text-align: center;">
+<div style="text-align: left;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"In a world where neon jellyfish float gracefully through the skies and the ocean has swapped places with the stars, Captain Spork Tanglebottom, the last pirate with a feathered top hat, set sail on a ship made entirely of cheese. The sails flapped like slices of provolone in the wind, and the crew of animated socks sang shanties about the moon's secret affinity for jazz music."</span>
+<ol>
+    <li>Never feel shy to ask - When in doubt or when it feels like the internet can't solve your problem, feel free to approach the right faculty and seniors/peers. You think it's dumb? Nah don't think, just ask it away!</li>
+    <li>You are your greatest motivator. Trusting yourself is key to self improvement. Set achievable goals and take small steps towards it. Being consistent is important to keep up with stuff.</li>
+    <li>Explore. Your college life is like a buffet, you get to explore everything but at the end of it pick what suits you the best. </li>
+    <li>Keep learning, be curious. Don't just do something for the sake of it.</li>
+</ol>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
