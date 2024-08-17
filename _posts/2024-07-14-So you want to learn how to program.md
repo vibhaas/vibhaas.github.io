@@ -292,6 +292,13 @@ Generally, while starting out it is better to participate in Jeopardy-style cont
 
 A prominent CTF competition which occurs every year is the [PicoCTF](https://picoctf.org/). Solving PicoCTF problems should give you a taste of what CTF problems are like. Also, go through the resources mentioned in the [AwesomeCTF github](https://github.com/apsdehal/awesome-ctf).
 
+Some other useful links:
+
+- [CTF101](https://ctf101.org/)
+- [CTFtime](https://ctftime.org/)
+- [Roppers CTF Bootcamp](https://www.roppers.org/courses/ctf)
+- [TryHackMe](https://tryhackme.com/)
+
 ## Tips from batchmates and seniors
 
 And finally, I have collected some tips from my batchmates and seniors. They mention things they wished they knew before starting their programming journey and the suggestions they have for you:
