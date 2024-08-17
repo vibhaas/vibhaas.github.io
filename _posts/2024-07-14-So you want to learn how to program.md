@@ -281,6 +281,8 @@ You will especially enjoy it if you are into Math / Puzzles or other mindsports 
 
 Capture the Flag (CTF) Competitions are cybersecurity competitions where you solve challenges related to hacking, reverse engineer, cryptography, and digital forensics. The goal is to find hidden "flags" (usually a piece of text like a code) within puzzles or systems, to show that you managed to break into the system. These flags give you points.
 
+{% include embed/youtube.html id='8ev9ZX9J45A' %}
+
 There are two main types:
 
 1. **Jeopardy-Style:** Challenges are like a quiz with categories (e.g., web hacking, reverse engineering) where each solved task gives a flag and points.
