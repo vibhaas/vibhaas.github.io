@@ -142,8 +142,7 @@ Which do you think is easier to understand and debug? Now, admittedly, the numbe
 ## How to Get Started
 
 This is section is to help you learn enough CS to be able to continue to learn yourself. This is not meant as an exhaustive list but a starting point.
-
-So, this my roadmap for a beginner programmer:
+### Roadmap
 
 1. **Learn one "mainstream" programming language.** I recommend starting out with C/C++, Python or Java. Learn the syntax and how to work with variables, control structures, loops, functions and common data structures.
 2. **Learn some basic web development.** Learn how HTML, CSS and JavaScript work, being able to code basic front-end websites.
@@ -152,6 +151,7 @@ So, this my roadmap for a beginner programmer:
 5. **Practice by solving coding problems on websites like [LeetCode](https://leetcode.com/), and make a few personal projects.**
 
 It doesn't really matter what resources you use as long as you accomplish the above mentioned points. Personally, I am partial towards [CS50's Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) which is a popular online MOOC by Harvard University. The [FreeCodeCamp Youtube Channel](https://www.youtube.com/c/Freecodecamp) also has excellent tutorials on various topics.
+### Timeframe
 
 Here is a rough time-frame for accomplishing what I mentioned (of course, this varies from person to person!):
 
@@ -165,8 +165,7 @@ That's about it. After this, you will (hopefully) discover where your interests 
 
 ## On Machine Learning and AI
 
-This section on Machine Learning and AI was contributed by [Glen Enosh](https://www.linkedin.com/in/glen-enosh-924414215) and [Harissh Ragav Dhamodaran](https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/), core members of the [Enigma AI Club](https://www.linkedin.com/company/enigma-iiitkottayam/) at IIITK.
-
+<div class="custom-card-template-widget-lite"> <div style="text-align: left;"> This section on Machine Learning and AI was contributed by <a href="https://www.linkedin.com/in/glen-enosh-924414215">Glen Enosh</a> and <a href="https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/">Harissh Ragav Dhamodaran</a>, core members of the <a href="https://www.linkedin.com/company/enigma-iiitkottayam">Enigma AI Club</a> at IIITK. </div></div>
 ### Getting Started
 
 > _AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies. - Sam Altman_
@@ -188,6 +187,57 @@ What works for us may not work for you, but aim to complete most of the concepts
 - The learning curve in AI is steeper than cubic polynomials, the initial steps can be tiring and exhausting. So, Try implementing the stuff that you learnt cuz visual learning proves to be helpful in the long run.
 - Don’t blindly follow the tutorials implementing the ML and ANN algos, try to understand the intuition behind the algo and then code it up.
 - Don’t ask too many questions up front. Just dive in and get started!
+
+## On Game Development
+
+<div class="custom-card-template-widget-lite"> <div style="text-align: left;"> This section on Game Development was contributed by <a href="https://www.linkedin.com/in/vipin-karthic-1b111828a">Vipin Karthic</a>. </div></div>
+
+### Introduction
+
+_So you want to do Game development, or you have an amazing idea, that you think is going to become one of the best games ever. You might want to do gamedev for multiple reasons, money, enjoyment, fame, or maybe even youtube._
+
+Everyone starts somewhere, so let's make few things very clear:
+
+1. **ANYONE CAN MAKE A VIDEO GAME**, that game you made when you were 10? It counts.
+2. **There is No Perfect Way** to make a game, Game development is an art and a science; the "perfect way" is what works best for you. And last but not the least,
+3. **Game Development is more than just programming**, There is so much more to developing a game other than the coding, since you are all starting to program, let's just cover the needed things :).
+
+Developing a game majorly consists of the following:
+
+#### 1. Game Design
+
+Think of it as a making a plan before you build a house on Minecraft, you always list out things like: What is the goal of your house?, What color do you want your house?, etc. Similarly, ask yourself: What is the goal of the game?, What kind of game are you going about?, Do you want the game to be really trivial?. Even if you think your ideas are SHIT, list them out. Even a rough scribble will help you out.
+
+#### 2. Art and Animation
+
+Now that you know what idea you have, start making your art. If you don't want to, there are so many websites online where you can find free art for your game, properly licensed for your usage. If you do want to make ur own art, start out with Aseperite (Learn how to draw and make simple art) or with Blender (Learn how to make models). Since it is your first game, don't go overkill, remember we are just learning. Don't confuse learning with making a project.
+
+#### 3. Audio and Sound Designing
+
+Sound designing can seem hard at the beginning. So, when just starting out, use available free audio online. If you want to make your own music there are a lot of applications like Audacity etc. Again, start slow, sound designing needs some experience before you can become really good at it.
+
+### Game Programming
+
+Now that you know what to make, now we choose a language. You might not want to choose an engine, and write everything from scratch, like rendering, and shader code, Stop, you are not a professional. Start small, it is okay to start small. Choose an engine (free ones, obviously). Learn how to use it, and then boom! By the time you finish programming, you already have a completed game, now its just a matter of refining and testing :)
+
+Remember all are equally important, remove one thing from the above mentioned, and its like playing a game on the pc without a peripheral. (Imagine playing CSGO, or Elden Ring, without the Animation or the Sound, :scared:  :D). I'll attach resources at the end where you can read more in detail, and give you some general tips for the game you are making.
+
+Some tips:
+
+1. Sorry, You cannot make a game like GTA 5, its just too big for someone starting out to make, Start small, its completely fine, to start small and then level yourself up.
+2. Don't feel bad if you feel like redoing your Art and Code you've. Its okay to improvise or refactor, if you find something better.
+3. Once you start a game, FINISH IT, yes it might seem simple at the beginning, but Game development is frustrating, Patience will take a long way.
+4. No one knows everything, you learn everything in your own way, at your own speed. Don't let others decide the speed of ur learning, make sure you learn it to ur satisfaction.
+5. As you make more games, start making the game bigger relative to the previous game, for example, you could implement new things that your previous game didn't have
+
+### Links and Resources
+
+1. **Reddit:** [https://www.reddit.com/r/gamedev](https://www.reddit.com/r/gamedev)
+2. **Photo link:** (verify licensing) [https://daily.gamedev.tv/infographic-showing-game-dev-careers/](https://daily.gamedev.tv/infographic-showing-game-dev-careers/)
+3. **Indies Discord:** [https://discord.gg/workwithindies](https://discord.gg/workwithindies)
+4. **GDL Discord:** [https://discord.gg/gamedev](https://discord.gg/gamedev)
+
+**Disclaimer:** These are all personal opinions that I felt right, even though I recommend you all to do this, choose what you think will fit you right always.
 
 ## Programming Challenges
 
@@ -226,20 +276,20 @@ Lorem Ipsum.
 And finally, I have collected some tips from my batchmates and seniors. They mention things they wished they knew before starting their programming journey and the suggestions they have for you:
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/siddhantnema/"><img src="/assets/img/ref-imgs/siddhant-nema.jpeg" alt="Siddhant Nema's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
 <div style="text-align: left;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400; text-align: left; align-items: left;"><ol>
+<ol>
     <li>Always try out new things. You never know what field you might like in Computer Science. </li>
     <li>Find something you vibe with rather than searching for a cash cow. Not everyone needs to be learning ML or doing CTFs or CP. Do what makes you happy!</li>
     <li>When you've finally found something you like, you will end up hitting a wall at some point. It is important to know that it's very natural and when you overcome this you will unlock a new level of mastery in your field. Be patient and persevere through it.</li>
     <li>Stop shifting the blame to external factors. "The prof isn't good" or "There are too many cheaters in contests" or "It was my internet" are good examples of little white lies you tell yourself to stay complacent. Being accountable to your mistakes is the best way to overcome failure.</li>
     <li>Chill. Now this one is mostly ignored. Nothing is more important than your peace. Give yourself a break once in a while.</li>
-</ol></span>
+</ol>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
@@ -248,7 +298,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/"><img src="/assets/img/ref-imgs/harissh-ragav.jpeg" alt="Harissh Ragav's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -264,7 +314,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/glen-enosh-924414215/"><img src="/assets/img/ref-imgs/glen-enosh.jpeg" alt="Glen Enosh's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -283,7 +333,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/alex-gijo/"><img src="/assets/img/ref-imgs/alex-gijo.jpeg" alt="Alex Gijo's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -303,7 +353,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/laav10/"><img src="/assets/img/ref-imgs/laavanya-rajan.jpeg" alt="Laavanya Rajan's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -319,7 +369,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/shaunalanjoseph/"><img src="/assets/img/ref-imgs/shaun.jpeg" alt="Shaun Alan Joseph's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -335,7 +385,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- ============= card template end ============= -->
 
 <!-- ============= card template start ============= -->
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
+<div class="custom-card-template-widget">
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/vipin-karthic-1b111828a/"><img src="/assets/img/ref-imgs/vipin-karthic.jpeg" alt="Vipin Karthic's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
@@ -348,31 +398,13 @@ And finally, I have collected some tips from my batchmates and seniors. They men
     <li>After you learn how to "use" a language, and when you start a project based on a tutorial, don't copy code as the tutorial says, see a part, understand it, and implement on your own with your own twist.</li>
     <li>Invest time learning before committing to something.</li>
     <li>Do not take too many things and once, and at the end, accomplishing nothing. Start with one thing, and once you learn how to manage your time efficiently take on other projects, I personally won't recommend doing more than 2 things at once.</li>
-</ol><center> PS: I too use Vim, btw.</center></span>
+</ol>PS: I also use Vim, btw.</span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
     ~ <a href="https://www.linkedin.com/in/vipin-karthic-1b111828a/">Vipin Karthic</a>
 </p></div></div>
 <!-- ============= card template end ============= -->
-
-<!--
-</!-- ============= card template start ============= --/>
-<div style="background-color: black; color: white; max-width: 800px; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 20px;">
-</!-- Image of the person --/>
-<img src="/assets/img/ref-imgs/victer-blane.jpeg" alt="Dr. Blanes's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
-</!-- Text content --/>
-<div style="text-align: center;">
-</!-- Quotation text --/>
-<p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"Don't be a lil bitch."</span>
-</p>
-</!-- Author's name --/>
-<p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
-    ~ <a href="https://www.reddit.com/r/SipsTea/comments/16q793h/dr_victor_blane/">Dr. Victer Blane</a>
-</p></div></div>
-</!-- ============= card template end ============= --/>
--->
 
 ## Concluding Remarks
 

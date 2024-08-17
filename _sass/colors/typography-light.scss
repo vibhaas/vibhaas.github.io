@@ -3,6 +3,10 @@
  */
 
 @mixin light-scheme {
+  /* Custom added */
+  --custom-card-template-widget-bgcolor: #D3D3D3;
+  --custom-card-template-widget-color: black;
+
   /* Framework color */
   --main-bg: white;
   --mask-bg: #c1c3c5;

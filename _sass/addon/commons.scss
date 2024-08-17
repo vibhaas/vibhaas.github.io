@@ -1534,3 +1534,29 @@ search {
     }
   }
 } /* min-width: 1650px */
+
+/* custom added */
+
+.custom-card-template-widget {
+  color: var(--custom-card-template-widget-color);
+  background-color: var(--custom-card-template-widget-bgcolor);
+  max-width: 800px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 255, 0.1), 0 4px 12px rgba(0, 0, 0, 0.2);  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 20px;
+}
+
+.custom-card-template-widget-lite {
+  color: var(--custom-card-template-widget-color);
+  /* background-color: var(--custom-card-template-widget-bgcolor); */
+  max-width: 800px;
+  margin: 10px;
+  padding: 12px;
+  border-radius: 15px;
+  /*box-shadow: 0 4px 8px rgba(0, 0, 255, 0.1), 0 4px 12px rgba(0, 0, 0, 0.2);*/
+   display: grid;
+}

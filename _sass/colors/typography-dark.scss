@@ -3,16 +3,20 @@
  */
 
 @mixin dark-scheme {
+  /* Custom added */
+  --custom-card-template-widget-bgcolor: black;
+  --custom-card-template-widget-color: white;
+
   /* Framework color */
   --main-bg: rgb(27, 27, 30);
   --mask-bg: rgb(68, 69, 70);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
-  --text-color: rgb(175, 176, 177);
+  --text-color: rgb(215, 216, 217);
   --text-muted-color: #868686;
   --text-muted-hightlight-color: #aeaeae;
-  --heading-color: #cccccc;
+  --heading-color: #ddd;
   --label-color: #a7a7a7;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
