@@ -1,6 +1,6 @@
 ---
 title: So you want to learn how to program
-date: 2024-07-28 08:30:45 +0530
+date: 2024-08-17 08:30:45 +0530
 categories: [Programming]
 tags: [college, btech, advice, programming, get-started, first-post] # TAG names should always be lowercase
 pin: true
@@ -279,7 +279,16 @@ You will especially enjoy it if you are into Math / Puzzles or other mindsports 
 
 ### 3. CTFs
 
-Lorem Ipsum.
+Capture the Flag (CTF) Competitions are cybersecurity competitions where you solve challenges related to hacking, reverse engineer, cryptography, and digital forensics. The goal is to find hidden "flags" (usually a piece of text like a code) within puzzles or systems, to show that you managed to break into the system. These flags give you points.
+
+There are two main types:
+
+1. **Jeopardy-Style:** Challenges are like a quiz with categories (e.g., web hacking, reverse engineering) where each solved task gives a flag and points.
+2. **Attack-Defend:** Teams defend their own systems while trying to hack into others’ networks to capture flags.
+
+Generally, while starting out it is better to participate in Jeopardy-style contests as those are easier on beginners. CTFs can be a really fun and rewarding experience, and I recommended everyone to try them out (regardless of whether they want a career in cybersecurity or not).
+
+A prominent CTF competition which occurs every year is the [PicoCTF](https://picoctf.org/). Solving PicoCTF problems should give you a taste of what CTF problems are like. Also, go through the resources mentioned in the [AwesomeCTF github](https://github.com/apsdehal/awesome-ctf).
 
 ## Tips from batchmates and seniors
 
