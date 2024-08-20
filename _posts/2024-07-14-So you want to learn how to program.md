@@ -443,4 +443,4 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 
 If you read through all that, great job! I tried to cover all the most common questions I get asked, and I hope this post was helpful to you too! 
 
-If you liked it, consider **[Subscribing]** to my blog! You will be e-mailed everytime I post. I promise every post will be as useful and high quality as this one. Also, you can leave a like or a comment to let me know you how you found this post. Thank you for reading! :)
+If you liked it, consider [**[Subscribing]**](https://forms.gle/wW19wehDTp7a3esF7) to my blog! You will be e-mailed everytime I post. I promise every post will be as useful and high quality as this one. Also, you can leave a like or a comment to let me know you how you found this post. Thank you for reading! :)
