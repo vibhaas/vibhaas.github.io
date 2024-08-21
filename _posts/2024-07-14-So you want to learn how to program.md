@@ -1,6 +1,6 @@
 ---
 title: So you want to learn how to program
-date: 2024-08-17 08:30:45 +0530
+date: 2024-08-21 15:00:00 +0530
 categories: [Programming]
 tags: [college, btech, advice, programming, get-started, first-post] # TAG names should always be lowercase
 pin: true

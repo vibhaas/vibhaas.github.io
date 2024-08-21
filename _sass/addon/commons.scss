@@ -157,14 +157,6 @@ footer {
     text-align: center;
     margin-bottom: 0;
   }
-
-  p:nth-child(2) { /* custom added */
-    display: none;
-  }
-}
-
-footer:after {
-  content: 'Subscribe here';
 }
 
 /* fontawesome icons */
