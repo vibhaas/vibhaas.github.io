@@ -406,10 +406,15 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 <!-- Image of the person -->
 <a href="https://www.linkedin.com/in/shaunalanjoseph/"><img src="/assets/img/ref-imgs/shaun.jpeg" alt="Shaun Alan Joseph's Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></a>
 <!-- Text content -->
-<div style="text-align: center;">
+<div style="text-align: left;">
 <!-- Quotation text -->
 <p style="font-size: 1.2em; line-height: 1.4;  margin: 0;">
-<span style="font-weight: 400;">"I use Vim, btw."</span>
+<ol>
+    <li>Don't treat learning coding languages like subjects. Learn them for fun and make them your tools.</li>
+    <li>Trying loads of coding questions and learn new concepts. The Competitive Programmer's Handbook and USACO's guide are great resources to do so.</li>
+    <li>Know how much time to spend on a question. Don't give up on a question too easily while also not banging your head against it fruitlessly. Taking hints from the editorials is totally fine.</li>
+    <li>Get your friends to take part in contests too, its way more fun that way!</li>
+</ol><span><center><b>"I use Vim, btw."</b></center></span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
@@ -431,7 +436,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
     <li>After you learn how to "use" a language, and when you start a project based on a tutorial, don't copy code as the tutorial says, see a part, understand it, and implement on your own with your own twist.</li>
     <li>Invest time learning before committing to something.</li>
     <li>Do not take too many things and once, and at the end, accomplishing nothing. Start with one thing, and once you learn how to manage your time efficiently take on other projects, I personally won't recommend doing more than 2 things at once.</li>
-</ol>PS: I also use Vim, btw.</span>
+</ol>PS: I use Vim too, btw.</span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
