@@ -33,7 +33,7 @@ I also thank them for providing their valuable time towards proof-reading this b
 
 This is section is here to answer the question: Why should you listen to what I have to say?
 
-I am currently a 2nd year student of Computer Science and Engineering at [IIIT Kottayam](https://www.iiitkottayam.ac.in/). I am a Coordinator for the [Coders Club at IIITK](https://www.linkedin.com/company/codersclub-iiitk/). I learnt to program in 2nd grade, and [dabbled](https://codepen.io/vibhaas) in programming as a hobby whenever I had free time. In 11th grade I won a [Bronze Medal](https://www.linkedin.com/in/vibhaas/overlay/1714978989419/single-media-viewer/) in [INOI](https://www.iarcs.org.in/inoi/), a competition to select the students who would represent India at the [Informatics Olympiad](https://ioinformatics.org/). I enjoy competitive programming, holding a title of [Expert on Codeforces](https://codeforces.com/profile/accord). You can get to know me better using the [About](/about) page.
+I am currently a 2nd year student of Computer Science and Engineering at [IIIT Kottayam](https://www.iiitkottayam.ac.in/). I am a Coordinator for the [Coders Club at IIITK](https://www.linkedin.com/company/codersclub-iiitk/). I learnt to program in 2nd grade, and [dabbled](https://codepen.io/vibhaas) in programming as a hobby whenever I had free time. In 11th grade I won a [Bronze Medal](https://www.linkedin.com/in/vibhaas/overlay/1714978989419/single-media-viewer/) in [INOI](https://www.iarcs.org.in/inoi/), a competition to select the students who would represent India at the [Informatics Olympiad](https://ioinformatics.org/). I enjoy competitive programming, holding a title of [Expert on Codeforces](https://codeforces.com/profile/accord). You can read more on the [About](/about) page.
 
 As this post is written in my perspective, so naturally some of the advice will be more relevant to a similar section of people compared to others. I have attempted to mitigate this by keeping my advice as general as possible and the inclusion of other contributers.
 
@@ -436,7 +436,7 @@ And finally, I have collected some tips from my batchmates and seniors. They men
     <li>After you learn how to "use" a language, and when you start a project based on a tutorial, don't copy code as the tutorial says, see a part, understand it, and implement on your own with your own twist.</li>
     <li>Invest time learning before committing to something.</li>
     <li>Do not take too many things and once, and at the end, accomplishing nothing. Start with one thing, and once you learn how to manage your time efficiently take on other projects, I personally won't recommend doing more than 2 things at once.</li>
-</ol>PS: I use Vim too, btw.</span>
+</ol><span><center><b>"I use Vim too, btw."</b></center></span></span>
 </p>
 <!-- Author's name -->
 <p style="font-weight: bold; font-size: 1em; text-align: right; margin: 0; margin-top: 10px;">
