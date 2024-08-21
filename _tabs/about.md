@@ -23,7 +23,7 @@ On hobbies, I enjoy playing chess, solving puzzles and math problems, and debati
 
 > This is the personal blog of Vibhaas Srivastava (@accord). Topics: Programming, B.Tech., Essays, AI/ML, Philosophy, Anime. 
 
-This website was created using the [Chirpy theme for Jekyll](https://github.com/cotes2020/jekyll-theme-chirpy), with some amount of custom modifications. It runs on [Github Pages](https://pages.github.com/). In the future, I plan to rewrite this website from scratch.
+This website was created using the [Chirpy theme for Jekyll](https://github.com/cotes2020/jekyll-theme-chirpy), with some amount of custom modifications. It runs on [Github Pages](https://pages.github.com/). The comments are powered by [Giscus](https://giscus.app/) and analytics by [GoatCounter](https://goatcounter.com). In the future, I plan to rewrite this website from scratch.
 
 
 You can view the github repo for the website at [github.com/vibhaas/vibhaas.github.io](https://github.com/vibhaas/vibhaas.github.io).
