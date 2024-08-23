@@ -243,7 +243,7 @@ Some tips:
 
 ## Programming Challenges
 
-This is an extension to Point 5 of [How to Fet Started](#how-to-get-started) --- Solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
+This is an extension to Point 5 of [How to Get Started](#how-to-get-started) --- Solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
 
 ### 1. Hackathons
 
