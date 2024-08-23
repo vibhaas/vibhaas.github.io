@@ -1,6 +1,6 @@
 ---
 title: So you want to learn how to program
-date: 2024-08-21 15:00:00 +0530
+date: 2024-08-23 18:10:00 +0530
 categories: [Programming]
 tags: [college, btech, advice, programming, get-started, first-post] # TAG names should always be lowercase
 pin: true
@@ -17,7 +17,7 @@ This article is for you. Although it is primarily written for the first category
 
 If you _do_ fall into the first category, that I believe it will be valuable to read this post from cover-to-cover, but feel free to skip around.
 
-Although posted on my blog, this post has been a collabarative effort by many people. Special thanks to:
+Although posted on my blog, this post has been a collaborative effort by many people. Special thanks to:
 
 - **Alex Gijo** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Glen Enosh** _(2023 batch, IIITK)_: For co-authoring [On Machine Learning and AI](#on-machine-learning-and-ai) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
@@ -27,15 +27,15 @@ Although posted on my blog, this post has been a collabarative effort by many pe
 - **Shaun Alan Joseph** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Vipin Karthic** _(2023 batch, IIITK)_: For authoring [On Game Development](#on-game-development) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 
-I also thank them for providing their valuable time towards proof-reading this blog.
+I also thank them for providing their valuable time towards proofreading this blog.
 
 ## About Me
 
 This is section is here to answer the question: Why should you listen to what I have to say?
 
-I am currently a 2nd year student of Computer Science and Engineering at [IIIT Kottayam](https://www.iiitkottayam.ac.in/). I am a Coordinator for the [Coders Club at IIITK](https://www.linkedin.com/company/codersclub-iiitk/). I learnt to program in 2nd grade, and [dabbled](https://codepen.io/vibhaas) in programming as a hobby whenever I had free time. In 11th grade I won a [Bronze Medal](https://www.linkedin.com/in/vibhaas/overlay/1714978989419/single-media-viewer/) in [INOI](https://www.iarcs.org.in/inoi/), a competition to select the students who would represent India at the [Informatics Olympiad](https://ioinformatics.org/). I enjoy competitive programming, holding a title of [Expert on Codeforces](https://codeforces.com/profile/accord). You can read more on the [About](/about) page.
+I am currently a 2nd year student of Computer Science and Engineering at [IIIT Kottayam](https://www.iiitkottayam.ac.in/). I am a Coordinator for the [Coders Club at IIITK](https://www.linkedin.com/company/codersclub-iiitk/). I learned to program in 2nd grade, and [dabbled](https://codepen.io/vibhaas) in programming as a hobby whenever I had free time. In 11th grade I won a [Bronze Medal](https://www.linkedin.com/in/vibhaas/overlay/1714978989419/single-media-viewer/) in [INOI](https://www.iarcs.org.in/inoi/), a competition to select the students who would represent India at the [Informatics Olympiad](https://ioinformatics.org/). I enjoy competitive programming, holding a title of [Expert on Codeforces](https://codeforces.com/profile/accord). You can read more on the [About](/about) page.
 
-As this post is written in my perspective, so naturally some of the advice will be more relevant to a similar section of people compared to others. I have attempted to mitigate this by keeping my advice as general as possible and the inclusion of other contributers.
+As this post is written in my perspective, so naturally some of the advice will be more relevant to a similar section of people compared to others. I have attempted to mitigate this by keeping my advice as general as possible and the inclusion of other contributors.
 
 ## Before we get started
 
@@ -43,15 +43,15 @@ Before we begin our discussion about how to get started with programming, I want
 
 ### 1. Be self-reliant
 
-First and most important, do **NOT** expect to learn how to code well from college (especially, in an Indian Engineering college). While you will learn how to code in college, it will not amount to much without spending a large amount of time in self-learning. Also, relying solely on college will lead to write bad code in an outdated programming framework, and it will make any competent programmer wince by just looking at it. Fortunately, resources to learn coding abound on the internet! We will discuss some in the [How to Get Started](#how-to-get-started) section.
+First and most important, do **NOT** expect to learn how to code well from college (especially, in an Indian Engineering college). While you will learn how to code in college, it will not amount to much without spending a large amount of time in self-learning. Also, relying solely on college will lead to writing bad code in an outdated programming framework, and it will make any competent programmer wince by just looking at it. Fortunately, resources to learn coding abound on the internet! We will discuss some in the [How to Get Started](#how-to-get-started) section.
 
 ### 2. Do not expect it to be easy
 
-For unknown reasons, a lot of people expect coding to be easy, or they watch some youtube tutorials and assume that they now know how to code. Peter Norvig put it best in his essay (which I highly recommend reading), [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html):
+For unknown reasons, a lot of people expect coding to be easy, or they watch some YouTube tutorials and assume that they now know how to code. Peter Norvig put it best in his essay (which I highly recommend reading), [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html):
 
 > Walk into any bookstore, and you'll see how to Teach Yourself Java in 24 Hours alongside endless variations offering to teach C, SQL, Ruby, Algorithms, and so on in a few days or hours... The conclusion is that either people are in a big rush to learn about programming, or that programming is somehow fabulously easier to learn than anything else.
 
-Let me make it clear: _Coding is not easy!_ Just like any craft, it takes discipline and deliberate practice over a long period of time to actually become a decent programmer. Do not expect it to be easy. Programming is vast, and to learn it to an intermediate level as a complete beginner, it will take you at least two years of practice. To become a master at the craft of programming it may take you five, ten years, or more! I cannot say, since I do not consider myself one! So, you must develop a love for the craft, which is the only way to hone your skills to this level. It is important to keep this in mind.
+Let me make it clear: _Coding is not easy!_ Just like any craft, it takes discipline and deliberate practice over a long period to become a decent programmer. Do not expect it to be easy. Programming is vast, and to learn it to an intermediate level as a complete beginner, it will take you at least two years of practice. To become a master at the craft of programming it may take you five, ten years, or more! I cannot say, since I do not consider myself one! So, you must develop a love for the craft, which is the only way to hone your skills to this level. It is important to keep this in mind.
 
 ### 3. Learn how to program, not any particular language
 
@@ -65,7 +65,7 @@ For an analogy, learning syntax is like learning how to make words and sentences
 
 Different programming languages have different use cases and philosophies on how to perform the same task. This is a continuation of the previous subsection on learning how to program well -- learn your language well, too! The syntax structures which are common between languages are just the surface - every language has something fresh and interesting to offer.
 
-To illustrate what I mean, consider a programmer extremely proficient in C++. He will be able to pick up the syntax of Python within 1-2 days. However, he wouldn't have learnt how to write _Pythonic_ code, and code in the philosophy and style of Python, or follow its best practices, and will likely take a few months if he wants to grasp that.
+To illustrate what I mean, consider a programmer extremely proficient in C++. He will be able to pick up the syntax of Python within 1-2 days. However, he wouldn't have learned how to write _Pythonic_ code, and code in the philosophy and style of Python, or follow its best practices, and will likely take a few months if he wants to grasp that.
 
 This is what I mean by syntax vs "knowing a language". Be a native speaker of your language and not just memorize the words.
 
@@ -79,7 +79,7 @@ By "stop learning", I mean to stop consuming online courses and tutorials. Start
 
 > "_Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live._" ~ John Woods
 
-Most real world coding projects involve the collaboration of tens to hundreds of programmers. They also involving maintaining and update ten years old codebases. 
+Most real-world coding projects involve the collaboration of tens to hundreds of programmers. They also involve maintaining and updating ten years old codebases. 
 
 Do you think that would be easier if the code looked like this:
 
@@ -137,35 +137,36 @@ bool isBipartite(int N, int M, vector<vector<int>> &adj) {
 }
 ```
 
-Which do you think is easier to understand and debug? Now, admittedly, the number of comments in the second example are a bit excessive, but it is important to **comment your code**! Make sure to use standard and expressive variable naming, even spacing and the best practices for the languages you are using.
+Which do you think is easier to understand and debug? Now, admittedly, the number of comments in the second example is a bit excessive, but it is important to **comment your code**! Make sure to use standard and expressive variable naming, even spacing and the best practices for the languages you are using.
 
 ## How to Get Started
 
 This is section is to help you learn enough CS to be able to continue to learn yourself. This is not meant as an exhaustive list but a starting point.
 ### Roadmap
 
-1. **Learn one "mainstream" programming language.** I recommend starting out with C/C++, Python or Java. Learn the syntax and how to work with variables, control structures, loops, functions and common data structures.
-2. **Learn some basic web development.** Learn how HTML, CSS and JavaScript work, being able to code basic front-end websites.
-3. **Learn OOPs (Object Oriented Programming).** You should be able to understand objects and classes; encapsulation, inheritance, polymorphism, how to create packages (or the equivalent) in your programming language of choice.
+1. **Learn one "mainstream" programming language.** I recommend starting out with C/C++, Python or Java. Learn the syntax and how to work with variables, control structures, loops, functions, and common data structures.
+2. **Learn some basic web development.** Learn how HTML, CSS, and JavaScript work, being able to code basic front-end websites.
+3. **Learn OOPs (Object Oriented Programming).** You should be able to understand objects and classes; encapsulation, inheritance, polymorphism, and how to create packages (or the equivalent) in your programming language of choice.
 4. **Learn how to use Git/Github.**
 5. **Practice by solving coding problems on websites like [LeetCode](https://leetcode.com/), and make a few personal projects.**
 
-It doesn't really matter what resources you use as long as you accomplish the above mentioned points. Personally, I am partial towards [CS50's Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) which is a popular online MOOC by Harvard University. The [FreeCodeCamp Youtube Channel](https://www.youtube.com/c/Freecodecamp) also has excellent tutorials on various topics.
+It doesn't really matter what resources you use as long as you accomplish the above-mentioned points. Personally, I am partial towards [CS50's Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) which is a popular online MOOC by Harvard University. The [FreeCodeCamp Youtube Channel](https://www.youtube.com/c/Freecodecamp) also has excellent tutorials on various topics.
 ### Timeframe
 
-Here is a rough time-frame for accomplishing what I mentioned (of course, this varies from person to person!):
+Here is a rough time frame for accomplishing what I mentioned (of course, this varies from person to person!):
 
-1. **Learning your first programming language.** This should take anywhere from 1-3 months. You don't just want to know it theoretically, you want to make sure that you can quickly write code without referring and making trivial bugs. For this, you should solve lots of problems!
-2. **Learning basic web development.** This is a questionable inclusion into the list. Not everyone considers web development interesting, while some love it and make a career in it. However, I believe a basic understanding of web development is essential for any programmer. This step should take about a month or so.
-3. **Learn OOPs.** This shouldn't take much long, however, it is a style of thinking and not just a bunch of concepts, so do not rush this. This should take about a month again.
-4. **Learn how to use Git/Github.** Learning how to use a version control system (primarily Git) is essential as a programmer. It still astounds me how many students in CS engineering are not comfortable working with Git. Do not be afraid of Git / Github. It is simple to pick up and should not take more than 2 weeks of effort.
-5. **Practice Problems on [LeetCode](https://leetcode.com/) / Make Projects.** This is a more long-term phase. Problem practice is supposed to consistent, so its hard to give a time line for this. It is meant to be done alongside the first four and much after as well. Basically, practice your skills on problems and projects for as long as you need to!
+1. **Learning your first programming language.** This should take anywhere from 1-3 months. You don't just want to know it theoretically, you want to make sure that you can quickly write code without referring to guides or making trivial bugs. For this, you should solve lots of problems!
+2. **Learning basic web development.** This is a questionable inclusion in the list. Not everyone considers web development interesting, while some love it and make a career in it. However, I believe a basic understanding of web development is essential for any programmer. This step should take about a month or so.
+3. **Learn OOPs.** This shouldn't take long. However, it is a style of thinking and not just a bunch of concepts, so do not rush this. This should take about a month again.
+4. **Learn how to use Git/Github.** Learning how to use a version control system (primarily Git) is essential to a programmer. It still astounds me how many students in CS engineering are not comfortable working with Git. Do not be afraid of Git / Github. It is simple to pick up and should not take more than 2 weeks of effort.
+5. **Practice Problems on [LeetCode](https://leetcode.com/) / Make Projects.** This is a more long-term phase. Problem practice is supposed to be consistent, so it is hard to give a timeline for this. It is meant to be done alongside the first four and much after as well. Practice your skills on problems and projects for as long as you need to!
 
 That's about it. After this, you will (hopefully) discover where your interests lie and be able to direct your further journey in Computer Science by yourself. Good luck, and have fun!
 
 ## On Machine Learning and AI
 
 <div class="custom-card-template-widget-lite"> <div style="text-align: left;"> This section on Machine Learning and AI was contributed by <a href="https://www.linkedin.com/in/glen-enosh-924414215">Glen Enosh</a> and <a href="https://www.linkedin.com/in/harissh-ragav-dhamodaran-b7a8aa289/">Harissh Ragav Dhamodaran</a>, core members of the <a href="https://www.linkedin.com/company/enigma-iiitkottayam">Enigma AI Club</a> at IIITK. </div></div>
+
 ### Getting Started
 
 > _AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies. - Sam Altman_
@@ -184,8 +185,8 @@ Above is the magnificent roadmap that is the default question for every fresher.
 What works for us may not work for you, but aim to complete most of the concepts in the roadmap.
 - Don’t trust us. Jump to advanced levels, face challenges, get mocked by the lack of knowledge, and doubt your ability. It’s okay to feel so. Don’t give up. Return to basics to understand the necessity of following the roadmap.Return to basics to understand the necessity of following the roadmap.
 - The key to learning stuff in this specific field is not just consistency and dedication, you have to choose the pertinent subjects to dedicate your time to.
-- The learning curve in AI is steeper than cubic polynomials, the initial steps can be tiring and exhausting. So, Try implementing the stuff that you learnt cuz visual learning proves to be helpful in the long run.
-- Don’t blindly follow the tutorials implementing the ML and ANN algos, try to understand the intuition behind the algo and then code it up.
+- The learning curve in AI is steeper than cubic polynomials, the initial steps can be tiring and exhausting. So, try implementing the stuff that you learned caused visual learning proves to be helpful in the long run.
+- Don’t blindly follow the tutorials implementing the ML and ANN algos, try to understand the intuition behind the algorithm and then code it up.
 - Don’t ask too many questions up front. Just dive in and get started!
 
 ## On Game Development
@@ -206,28 +207,28 @@ Developing a game majorly consists of the following:
 
 #### 1. Game Design
 
-Think of it as a making a plan before you build a house on Minecraft, you always list out things like: What is the goal of your house?, What color do you want your house?, etc. Similarly, ask yourself: What is the goal of the game?, What kind of game are you going about?, Do you want the game to be really trivial?. Even if you think your ideas are SHIT, list them out. Even a rough scribble will help you out.
+Think of it as making a plan before you build a house on Minecraft, you always list out things like: What is the goal of your house?, What color do you want your house? etc. Similarly, ask yourself: What is the goal of the game?, What kind of game are you going about?, Do you want the game to be really trivial? Even if you think your ideas are SHIT, list them out. Even a rough scribble will help you out.
 
 #### 2. Art and Animation
 
-Now that you know what idea you have, start making your art. If you don't want to, there are so many websites online where you can find free art for your game, properly licensed for your usage. If you do want to make ur own art, start out with Aseperite (Learn how to draw and make simple art) or with Blender (Learn how to make models). Since it is your first game, don't go overkill, remember we are just learning. Don't confuse learning with making a project.
+Now that you know what idea you have, start making your art. If you don't want to, there are so many websites online where you can find free art for your game, properly licensed for your usage. If you do want to make your own art, start out with Aseperite (Learn how to draw and make simple art) or with Blender (Learn how to make models). Since it is your first game, don't go overkill, remember we are just learning. Don't confuse learning with making a project.
 
 #### 3. Audio and Sound Designing
 
-Sound designing can seem hard at the beginning. So, when just starting out, use available free audio online. If you want to make your own music there are a lot of applications like Audacity etc. Again, start slow, sound designing needs some experience before you can become really good at it.
+Sound designing can seem hard at the beginning. So, when just starting out, use available free audio online. If you want to make your own music there are a lot of applications like Audacity etc. Again, start slow, sound designing needs some experience before you can become good at it.
 
 ### Game Programming
 
-Now that you know what to make, now we choose a language. You might not want to choose an engine, and write everything from scratch, like rendering, and shader code, Stop, you are not a professional. Start small, it is okay to start small. Choose an engine (free ones, obviously). Learn how to use it, and then boom! By the time you finish programming, you already have a completed game, now its just a matter of refining and testing :)
+Now that you know what to make, now we choose a language. You might not want to choose an engine, and write everything from scratch, like rendering, and shader code, Stop, you are not a professional. Start small, it is okay to start small. Choose an engine (free ones, obviously). Learn how to use it, and then boom! By the time you finish programming, you already have a completed game, now it is just a matter of refining and testing :)
 
 Remember all are equally important, remove one thing from the above mentioned, and its like playing a game on the pc without a peripheral. (Imagine playing CSGO, or Elden Ring, without the Animation or the Sound, :scared:  :D). I'll attach resources at the end where you can read more in detail, and give you some general tips for the game you are making.
 
 Some tips:
 
-1. Sorry, You cannot make a game like GTA 5, its just too big for someone starting out to make, Start small, its completely fine, to start small and then level yourself up.
-2. Don't feel bad if you feel like redoing your Art and Code you've. Its okay to improvise or refactor, if you find something better.
+1. Sorry, You cannot make a game like GTA 5, it's just too big for someone starting out to make, Start small, it's completely fine, to start small and then level yourself up.
+2. Don't feel bad if you feel like redoing your art or your code. It's okay to improvise or refactor, if you find something better.
 3. Once you start a game, FINISH IT, yes it might seem simple at the beginning, but Game development is frustrating, Patience will take a long way.
-4. No one knows everything, you learn everything in your own way, at your own speed. Don't let others decide the speed of ur learning, make sure you learn it to ur satisfaction.
+4. No one knows everything, you learn everything in your own way, at your own speed. Don't let others decide the speed of your learning, make sure you learn it to your satisfaction.
 5. As you make more games, start making the game bigger relative to the previous game, for example, you could implement new things that your previous game didn't have
 
 ### Links and Resources
@@ -241,7 +242,7 @@ Some tips:
 
 ## Programming Challenges
 
-This is an extension to Point 5 of [How to get Started](#how-to-get-started) --- solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
+This is an extension to Point 5 of [How to Fet Started](#how-to-get-started) --- Solving programming challenges and hackathons can also be a valuable way to gain experience and learn how to code. It can also help build valuable connections within your community!
 
 ### 1. Hackathons
 
@@ -259,9 +260,9 @@ A popular Hackathon in India is the [Smart India Hackathon](https://www.sih.gov.
 
 ### 2. Competitive Programming
 
-Competitive Programming is a mindsport in which contestants solve programming problems / puzzles in a limited time frame. It is similar to the contests on [LeetCode](https://leetcode.com/), with some of the biggest platforms for practicing CP (as it is commonly abbreviated) being [Codeforces](https://codeforces.com/), [CodeChef](https://www.codechef.com) and [AtCoder](https://atcoder.jp/).
+Competitive Programming is a mind sport in which contestants solve programming problems / puzzles in a limited time frame. It is similar to the contests on [LeetCode](https://leetcode.com/), with some of the biggest platforms for practicing CP (as it is commonly abbreviated) being [Codeforces](https://codeforces.com/), [CodeChef](https://www.codechef.com) and [AtCoder](https://atcoder.jp/).
 
-You will especially enjoy it if you are into Math / Puzzles or other mindsports like Chess. If you saw my profile, you know that I am pretty into it myself, and so I will be writing a blog post only about "How to get started with CP" soon. Until then, I refer you to the following videos and books if you are interested to learn more:
+You will especially enjoy it if you are into Math / Puzzles or other mind sports like Chess. If you saw my profile, you know that I am pretty into it myself, and so I will be writing a blog post only about "How to get started with CP" soon. Until then, I refer you to the following videos and books if you are interested to learn more:
 
 - **Famous CPer Errichto on "How to Start with Competitive Programming":** 
 
@@ -279,7 +280,7 @@ You will especially enjoy it if you are into Math / Puzzles or other mindsports 
 
 ### 3. CTFs
 
-Capture the Flag (CTF) Competitions are cybersecurity competitions where you solve challenges related to hacking, reverse engineer, cryptography, and digital forensics. The goal is to find hidden "flags" (usually a piece of text like a code) within puzzles or systems, to show that you managed to break into the system. These flags give you points.
+Capture the Flag (CTF) Competitions are cybersecurity competitions where you solve challenges related to hacking, reverse engineering, cryptography, and digital forensics. The goal is to find hidden "flags" (usually a piece of text like a code) within puzzles or systems, to show that you managed to break into the system. These flags give you points.
 
 {% include embed/youtube.html id='8ev9ZX9J45A' %}
 
@@ -288,9 +289,9 @@ There are two main types:
 1. **Jeopardy-Style:** Challenges are like a quiz with categories (e.g., web hacking, reverse engineering) where each solved task gives a flag and points.
 2. **Attack-Defend:** Teams defend their own systems while trying to hack into others’ networks to capture flags.
 
-Generally, while starting out it is better to participate in Jeopardy-style contests as those are easier on beginners. CTFs can be a really fun and rewarding experience, and I recommended everyone to try them out (regardless of whether they want a career in cybersecurity or not).
+Generally, while starting out it is better to participate in Jeopardy-style contests as those are easier on beginners. CTFs can be a really fun and rewarding experience, and I recommend everyone to try them out (regardless of whether they want a career in cybersecurity or not).
 
-A prominent CTF competition which occurs every year is the [PicoCTF](https://picoctf.org/). Solving PicoCTF problems should give you a taste of what CTF problems are like. Also, go through the resources mentioned in the [AwesomeCTF github](https://github.com/apsdehal/awesome-ctf).
+A prominent CTF competition that occurs every year is the [PicoCTF](https://picoctf.org/). Solving PicoCTF problems should give you a taste of what CTF problems are like. Also, go through the resources mentioned in the [AwesomeCTF github](https://github.com/apsdehal/awesome-ctf).
 
 Some other useful links:
 
@@ -448,4 +449,4 @@ And finally, I have collected some tips from my batchmates and seniors. They men
 
 If you read through all that, great job! I tried to cover all the most common questions I get asked, and I hope this post was helpful to you too! 
 
-If you liked it, consider [**[Subscribing]**](https://forms.gle/wW19wehDTp7a3esF7) to my blog! You will be e-mailed everytime I post. I promise every post will be as useful and high quality as this one. Also, you can leave a like or a comment to let me know you how you found this post. Thank you for reading! :)
+If you liked it, consider [**[Subscribing]**](https://forms.gle/wW19wehDTp7a3esF7) to my blog! You will be e-mailed every time I post. I promise every post will be as useful and high-quality as this one. Also, you can leave a like or a comment to let me know how you found this post. Thank you for reading! :)
