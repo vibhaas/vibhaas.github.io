@@ -7,7 +7,7 @@ order: 1
 ## About Me
 
 ![img-description](/assets/img/vib-chess-photo.jpeg){: width="350" .right }
-_Photo at Banglore Chess Club, June 2024._
+_Photo at Bangalore Chess Club, June 2024._
 
 I'm Vibhaas, currently in my 2nd year of Computer Science Engineering at [IIIT Kottayam](https://www.iiitkottayam.ac.in/). I am a competitive programmer and programming hobbyist. I have varied interests ranging from Mathematics to Philosophy to Social Psychology to [interesting fanfiction](https://hpmor.com/) (:p).
 
