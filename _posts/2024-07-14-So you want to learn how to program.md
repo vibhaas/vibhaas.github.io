@@ -1,6 +1,6 @@
 ---
 title: So you want to learn how to program
-date: 2024-08-23 18:10:00 +0530
+date: 2024-08-23 18:15:00 +0530
 categories: [Programming]
 tags: [college, btech, advice, programming, get-started, first-post] # TAG names should always be lowercase
 pin: true
@@ -23,6 +23,7 @@ Although posted on my blog, this post has been a collaborative effort by many pe
 - **Glen Enosh** _(2023 batch, IIITK)_: For co-authoring [On Machine Learning and AI](#on-machine-learning-and-ai) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Harissh Ragav Dhamodaran** _(2023 batch, IIITK)_: For co-authoring [On Machine Learning and AI](#on-machine-learning-and-ai) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Laavanya Rajan** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
+- **Maniraj B** _(2023 batch, IIITK)_: For designing the learning track image in the [On Machine Learning and AI](#on-machine-learning-and-ai) section.
 - **Siddhant Nema** _(2022 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Shaun Alan Joseph** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Vipin Karthic** _(2023 batch, IIITK)_: For authoring [On Game Development](#on-game-development) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
