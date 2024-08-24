@@ -21,7 +21,7 @@
     constructor() {
       let self = this;
 
-      {%- comment -%} always follow the system prefers {%- endcomment -%}
+      {%- comment -%} removed: always follow the system prefers {%- endcomment -%}
       this.sysDarkPrefers.addEventListener('change', () => {
         if (self.hasMode) {
           self.clearMode();
@@ -29,6 +29,7 @@
         self.notify();
       });
 
+      {%- comment -%} custom added: add default dark  {%- endcomment -%}
       if (!this.hasMode) {
         this.setDark();
         return;
