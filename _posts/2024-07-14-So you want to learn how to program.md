@@ -28,7 +28,7 @@ Although posted on my blog, this post has been a collaborative effort by many pe
 - **Shaun Alan Joseph** _(2023 batch, IIITK)_: For their contribution in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 - **Vipin Karthic** _(2023 batch, IIITK)_: For authoring [On Game Development](#on-game-development) and their contributions in [Tips from batchmates and seniors](#tips-from-batchmates-and-seniors).
 
-I also thank them for providing their valuable time towards proofreading this blog.
+I also thank them for providing their valuable time towards proofreading this blog. Also, extra special thanks to Achilles for proof-reading.
 
 ## About Me
 
