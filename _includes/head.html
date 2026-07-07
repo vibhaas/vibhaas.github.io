@@ -99,9 +99,18 @@
 
   <!-- JavaScript -->
 
+  <script src="{{ '/assets/js/dist/theme.min.js' | relative_url }}"></script>
+
   {% unless site.theme_mode %}
     {% include mode-toggle.html %}
   {% endunless %}
+
+  <script>
+    /* This override still uses Chirpy's legacy single-button mode toggle. */
+    if (typeof Theme !== 'undefined' && document.querySelector('#mode-toggle + .dropdown-menu') === null) {
+      Theme.isToggleable = false;
+    }
+  </script>
 
   {% include js-selector.html lang=lang %}
 

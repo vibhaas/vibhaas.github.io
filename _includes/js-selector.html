@@ -65,6 +65,34 @@
 {% capture script %}{{ js_dist }}{{ js }}.min.js{% endcapture %}
 <script defer src="{{ script | relative_url }}"></script>
 
+<script>
+  function clearImageLoadingCovers() {
+    document.querySelectorAll('main .shimmer > img, main .blur > img').forEach((img) => {
+      const cover = img.closest('.shimmer, .blur');
+
+      if (cover === null) {
+        return;
+      }
+
+      const clear = () => cover.classList.remove('shimmer', 'blur');
+
+      if (img.complete || img.naturalWidth > 0) {
+        clear();
+      } else {
+        img.addEventListener('load', clear, { once: true });
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', clearImageLoadingCovers);
+  } else {
+    clearImageLoadingCovers();
+  }
+
+  window.addEventListener('load', clearImageLoadingCovers, { once: true });
+</script>
+
 {% if page.math %}
   <!-- MathJax -->
   <script src="{{ '/assets/js/data/mathjax.js' | relative_url }}"></script>
