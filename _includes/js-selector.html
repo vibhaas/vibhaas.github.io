@@ -63,7 +63,7 @@
 {% endcase %}
 
 {% capture script %}{{ js_dist }}{{ js }}.min.js{% endcapture %}
-<script src="{{ script | relative_url }}"></script>
+<script defer src="{{ script | relative_url }}"></script>
 
 {% if page.math %}
   <!-- MathJax -->

@@ -1,8 +1,12 @@
 <!-- Display GoatCounter pageviews -->
 <script>
-  let pv = document.getElementById('pageviews');
+  function loadPageviews() {
+    const pv = document.getElementById('pageviews');
 
-  if (pv !== null) {
+    if (pv === null) {
+      return;
+    }
+
     const uri = location.pathname.replace(/\/$/, '');
     const url = `https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/${encodeURIComponent(uri)}.json`;
 
@@ -12,8 +16,14 @@
         const count = data.count.replace(/\s/g, '');
         pv.innerText = new Intl.NumberFormat().format(count);
       })
-      .catch((error) => {
+      .catch(() => {
         pv.innerText = '1';
       });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadPageviews);
+  } else {
+    loadPageviews();
   }
 </script>
