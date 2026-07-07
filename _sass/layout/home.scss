@@ -135,6 +135,17 @@
   }
 
   #post-list {
+    .card-wrapper:nth-child(even) {
+      .post-preview {
+        flex-direction: row !important;
+      }
+
+      .preview-img,
+      .preview-img img {
+        border-radius: $base-radius 0 0 $base-radius;
+      }
+    }
+
     .card {
       .card-body {
         padding: 1.75rem 1.75rem 1.25rem 1.75rem;
