@@ -7,6 +7,9 @@ tags: [advice, programming, ai, llms, competitive-programming] # TAG names shoul
 image:
   path: /assets/img/wanderer-above-a-sea-of-fog.jpg
   alt: Wanderer above the Sea of Fog, Caspar David Friedrich
+redirect_from:
+  - /posts/competitive-programming-in-the-era-of-ai/
+  - /posts/Competitive-Programming-in-the-Era-of-AI/
 ---
 
 **Read (and comment) about the post on Codeforces blog:** [https://codeforces.com/blog/entry/155052](https://codeforces.com/blog/entry/155052).

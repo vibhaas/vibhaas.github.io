@@ -7,7 +7,7 @@
       return;
     }
 
-    const uri = location.pathname.replace(/\/$/, '');
+    const uri = location.pathname.replace(/\/$/, '').toLowerCase();
     const url = `https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/${encodeURIComponent(uri)}.json`;
 
     fetch(url)

@@ -6,6 +6,8 @@ tags: [college, btech, advice, programming, get-started, first-post] # TAG names
 image:
   path: /assets/img/Cp-anime.png
   alt: Fun image of two programmers from Everrule's (in)famous "CP Anime Blog" :P
+redirect_from:
+  - /posts/so-you-want-to-learn-how-to-program/
 ---
 
 ## Introduction
