@@ -9,6 +9,8 @@ image:
   alt: Wanderer above the Sea of Fog, Caspar David Friedrich
 ---
 
+**Read (and comment) about the post on Codeforces blog:** [https://codeforces.com/blog/entry/155052](https://codeforces.com/blog/entry/155052).
+
 *Picture this.  You've had a draining week at university or at work. You're exhausted, and you need a break. Most people would play a few video games, grab a few beers with their friends, or just sleep. But you have the (mis?)-fortune of being addicted to this weird, aesthetically questionable website called Codeforces (or AtCoder, or whatever your favorite OJ is).* 
 
 *You check the list of upcoming contests, and you're in luck. "Nice," you think to yourself, "two rated contests back to back!" This is going to allow you to farm some rating! That sweet, juicy, delicious rating.  Maybe it's because the rest of your life is so dry that you get your weekly fill of validation (or disappointment) from these random internet points. Still, at least you're being productive. You want to get out of this Specialist rut you've been stuck in and into Expert. This is an academic goal. Or so you tell yourself. The truth is, you're simply addicted to the adrenaline rush that contests give you. It was never about being productive.*
@@ -72,11 +74,13 @@ So, I recommend using AI more sparingly : Don't use it to debug code which you y
 
 ## A (hypothetical) new structure for contests
 I believe that AI-assisted unfair play is a serious issue which degrades the experience for all participants including themselves, makes contests uninteresting and wastes the effort of the authors. I would like to argue that this potentially could be a "phase-transition" moment, and that some new structure for contests could be useful, especially stricter proctoring methods. Some (very subjective) suggestions from my end would be:
+
 1. **Fight fire with fire:**  I believe a lot of unfair play can be detected by ML-based models, although I am not particularly skilled myself in that area. However, the tells of LLM usage are pretty clear to humans when looking at the code, so I believe a system which can recognize those signs is not far-fetched, and worth looking into.
 2. **Use rapid changes in rating and performance as indicators** : A player who performed at a Newbie level in the past 10 contests and suddenly jumped to CM-level performance should attract investigation. It is the easiest way to catch foul play, and I think contest websites should have some checks of that sort in the future, similar to how chess websites work.
 3. **Public Reporting / Review :** A large portion of the user base of the websites don't wish to see it populated with unfair players. This is why websites and extensions like the popular [CF Cheater Database](https://cf-cheater-database.vercel.app/) have sprung up throughout the past few years. I believe such a reporting system should be made official, and any instance of detected cheating be visible on the profile.
 4. **Limiting the creation of new accounts :** Banning a account associated with unfair play is difficult, as unfair players may just decide to create a new account. Thus, there have to be stricter measures to create new accounts, which leads me to my next point.
 5. **Collect mobile numbers to verify new accounts**:  OTP-based verification could be required to create new accounts, and prevent unverified accounts from participating in contests. Although there has been historical push-back against this for privacy reasons, I believe it's a reasonable trade-off for the current environment. Most sport-related websites today implement some sort of mobile verification, and this comes with the added benefit of also reducing bot spam.
+
 No anti-cheat system can ever be perfect. But the goal isn't to eliminate unfair play entirely -- which is impossible --  but maybe with a good-enough system and stricter structure in place, rating can recover some of its lost meaning and competitive programming its older charm.
 
 ## In Closing
