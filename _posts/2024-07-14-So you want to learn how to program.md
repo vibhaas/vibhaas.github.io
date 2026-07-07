@@ -3,7 +3,6 @@ title: So you want to learn how to program
 date: 2024-08-23 18:15:00 +0530
 categories: [Programming]
 tags: [college, btech, advice, programming, get-started, first-post] # TAG names should always be lowercase
-pin: true
 image:
   path: /assets/img/Cp-anime.png
   alt: Fun image of two programmers from Everrule's (in)famous "CP Anime Blog" :P
