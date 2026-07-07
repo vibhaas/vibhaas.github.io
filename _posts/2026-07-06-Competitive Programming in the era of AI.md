@@ -30,7 +30,7 @@ image:
 *You don't up-solve that question you were stuck at. You don't register for the next contest. For the first time in a long while, you wonder if you're done.*
 
 ---
-# Introduction
+## Introduction
 
 Over the past two years, competitive programming has (not so) quietly entered a new era. With the release of Large Language Models which can solve an increasing fraction of CP problems, getting an AC can be as simple as pasting the question statement into your favorite model, and pasting back (without even looking at the code) the response.
 
@@ -42,7 +42,7 @@ Competitive programming is uniquely unprepared to deal with this situation, sinc
 
 I've split this post into a few parts: What I think genuine contestants should do, how to use AI to effectively train, and some (perhaps controversial) suggestions to the very structure of how we conduct contests.
 
-# How to CP, the leaderboard is full of LLM-Zombies!
+## How to CP, the leaderboard is full of LLM-Zombies!
 
 ### 1. Detach yourself from rating
 I think this should have been obvious by now, but the rating indicator in your profile is not the same as it was in the past. Not just because of unfair players, but because other people in the space know that it simply isn't a good measure anymore (since it is easily faked by unfair means), and it has already stopped being the signal it once was. While this is sad, it should also be somewhat liberating, especially if you are the type to be afraid about rating loss during contests. Thus: detach yourself from rating. I know this is easier said than done, and we will now need a new anchor to gauge our progress. Several of the next suggestions address this.
@@ -57,7 +57,7 @@ Let's say you still want to improve your official rating and rank. Then, followi
 ### 6.  Promote fairness in your local circles
 This point has less to do with how to individually get better, but it is equally important. I'm sure that some of you reading this have friends, classmates who also do CP. Please keep your local CP clubs and friend circles clean, as much as possible. If you know someone is blatantly cheating, you obviously cannot stop them, but you can try to talk to them. This is especially relevant for students currently in university.
 
-# On Using AI for Practice
+## On Using AI for Practice
 From a surface glance: Using AI for practice will surely be great! You have an effective tool to use when you're stuck at a problem to provide you with hints. If your solution isn't passing, the tool can find your bugs and point them out for you. Perhaps it will be like chess, where the existence of strong engines pushed contestants to learn and refine their skills to an even greater extent.
 
 Perhaps. But this is a dangerous path to go down. Why do I say this? Because it is very tempting to use AI not as a tool but as a crutch. Let's pick an example : Alice and Bob are both solving a particularly hard problem for their rating range. Both recognize it uses this technique which is slightly unfamiliar for them. Both Alice and Bob code out their solutions, but both have implementations littered with bugs.
@@ -70,7 +70,7 @@ A month later, both of them take part in an offline contest, where another probl
 
 So, I recommend using AI more sparingly : Don't use it to debug code which you yourself struggle to debug. Ideally, don't use it for debugging - it is one of the skills you're trying to train. It's alright to use it to prepare a list of topics to train, to make plans or schedules, to explain a topic to you in different words. Generalizing this advice : **Don't use AI tools in training in a way where *they* perform a task that *you* want to be better at.**
 
-# A (hypothetical) new structure for contests
+## A (hypothetical) new structure for contests
 I believe that AI-assisted unfair play is a serious issue which degrades the experience for all participants including themselves, makes contests uninteresting and wastes the effort of the authors. I would like to argue that this potentially could be a "phase-transition" moment, and that some new structure for contests could be useful, especially stricter proctoring methods. Some (very subjective) suggestions from my end would be:
 1. **Fight fire with fire:**  I believe a lot of unfair play can be detected by ML-based models, although I am not particularly skilled myself in that area. However, the tells of LLM usage are pretty clear to humans when looking at the code, so I believe a system which can recognize those signs is not far-fetched, and worth looking into.
 2. **Use rapid changes in rating and performance as indicators** : A player who performed at a Newbie level in the past 10 contests and suddenly jumped to CM-level performance should attract investigation. It is the easiest way to catch foul play, and I think contest websites should have some checks of that sort in the future, similar to how chess websites work.
@@ -79,7 +79,7 @@ I believe that AI-assisted unfair play is a serious issue which degrades the exp
 5. **Collect mobile numbers to verify new accounts**:  OTP-based verification could be required to create new accounts, and prevent unverified accounts from participating in contests. Although there has been historical push-back against this for privacy reasons, I believe it's a reasonable trade-off for the current environment. Most sport-related websites today implement some sort of mobile verification, and this comes with the added benefit of also reducing bot spam.
 No anti-cheat system can ever be perfect. But the goal isn't to eliminate unfair play entirely -- which is impossible --  but maybe with a good-enough system and stricter structure in place, rating can recover some of its lost meaning and competitive programming its older charm.
 
-# In Closing
+## In Closing
 Back to the main discussion, I don't think the AI-era is completely terrible for the serious contestant. The value of problems which train your brain only increases when we increasingly outsource thinking to AI agents, since those systems are still fallible, and need a trained eye to detect mistakes. The only thing which is dying is the leaderboard, and many may even argue that this is a good thing. CP, like most mind sports which had to deal with the existence of engines, will continue on. Let's close by revisiting the hypothetical contestant whose story we discussed in the beginning. 
 
 ---
